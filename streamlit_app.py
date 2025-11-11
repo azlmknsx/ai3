@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://lh5.googleusercontent.com/proxy/H1HER1r1h7fltF4VTr6ycdVV20DuwlYIQ0pupaZfQ1KxrrGQRhywti9NTrzHFGK-TCcmbeO36g78qFleeVT19jep0ZKAbojAZ2efVnF-ZraLHXE27OSWCf6LMhxOT_ptzA7_wanNodC5x1udZpDVwkYuHEXIPtMT3ckQMuXH"],
        "videos": ["https://youtu.be/tXwKrWYhuQk?si=h8PW4eNS54-cSnHc"]
      },
+
+     labels[1]: {
+       "texts": ["파스타는 면과 소스로 구성된 음식이다."],
+       "images": ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"],
+       "videos": ["https://youtube.com/shorts/lKoeEYCOHeM?si=s1Z04AL-4zAdyjna"]
+     },
 }
 
 # ======================
