@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["치킨은 튀김 가루를 묻힌 닭을 튀긴 음식이다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://lh5.googleusercontent.com/proxy/H1HER1r1h7fltF4VTr6ycdVV20DuwlYIQ0pupaZfQ1KxrrGQRhywti9NTrzHFGK-TCcmbeO36g78qFleeVT19jep0ZKAbojAZ2efVnF-ZraLHXE27OSWCf6LMhxOT_ptzA7_wanNodC5x1udZpDVwkYuHEXIPtMT3ckQMuXH"],
        "videos": ["https://youtu.be/tXwKrWYhuQk?si=h8PW4eNS54-cSnHc"]
      },
 }
