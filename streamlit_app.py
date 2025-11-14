@@ -80,6 +80,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"],
        "videos": ["https://youtube.com/shorts/lKoeEYCOHeM?si=s1Z04AL-4zAdyjna"]
      },
+labels[2]: {
+       "texts": ["피자는 밀가루와 토핑으로 구성된 음식이다."],
+       "images": ["https://i.ytimg.com/vi/X6VrQZhr5hQ/maxresdefault.jpg"],
+       "videos": ["https://youtu.be/rI9fuUZ48ro?si=n8hm0QhkO4d_iloK"]
+     },
 }
 
 # ======================
